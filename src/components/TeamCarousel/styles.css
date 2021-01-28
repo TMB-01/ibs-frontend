@@ -1,0 +1,25 @@
+.rec-dot {
+  width: 12px;
+  height: 12px;
+  background-color: white;
+  border: 1px solid #FEC02C;
+  box-shadow: 2px 3px 10px #FEC02C;
+  cursor: pointer;
+}
+
+.rec-dot:hover {
+  box-shadow: none;
+  background-color: #FEC02C;
+}
+
+.rec-dot:active {
+  border: 2px solid #FEC02C;
+  box-shadow: 2px 3px 10px #FEC02C;
+}
+
+.rec-dot:focus {
+  background-color: #FEC02C;
+  border: 2px solid #FEC02C;
+  box-shadow: none;
+  outline: none;
+}

@@ -1,0 +1,13 @@
+svg {
+    flex-shrink: 0;
+    width: 600px;
+    max-width: 90vw;
+  }
+  
+  @import url("https://fonts.googleapis.com/css2?family=Signika:wght@700&display=swap");
+  
+  .screen-log {
+    padding-top: 1rem;
+    text-align: center;
+    color: black;
+  }

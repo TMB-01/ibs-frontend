@@ -1,0 +1,27 @@
+<svg id="icon-timer" viewBox="0 0 32 32">
+    <path fill="currentColor"
+          d="M19,5.39331V5h2a1,1,0,0,0,0-2H11a1,1,0,0,0,0,2h2V5.39331A12,12,0,1,0,19,5.39331ZM16,27A10,10,0,1,1,26,17,10,10,0,0,1,16,27Z"/>
+    <circle fill="currentColor" cx="16" cy="25" r="1"/>
+    <circle fill="currentColor" cx="24" cy="17" r="1"/>
+    <circle fill="currentColor" cx="8" cy="17" r="1"/>
+    <circle fill="currentColor" cx="20" cy="23.92816" r="1"
+            transform="translate(-9.28458 13.20573) rotate(-29.99993)"/>
+    <circle fill="currentColor" cx="22.92822" cy="13" r="1"
+            transform="translate(-3.4282 13.20575) rotate(-29.99993)"/>
+    <circle fill="currentColor" cx="12" cy="10.07178" r="1"
+            transform="translate(-3.42819 7.34934) rotate(-29.99993)"/>
+    <circle fill="currentColor" cx="9.07178" cy="21" r="1"
+            transform="translate(-9.2846 7.34933) rotate(-29.99993)"/>
+    <circle fill="currentColor" cx="22.92822" cy="21" r="1"
+            transform="translate(-6.72241 30.35646) rotate(-60.00007)"/>
+    <circle fill="currentColor" cx="20" cy="10.07178" r="1"
+            transform="translate(1.2776 22.35642) rotate(-60.00007)"/>
+    <circle fill="currentColor" cx="9.07178" cy="13" r="1"
+            transform="translate(-6.72244 14.35641) rotate(-60.00007)"/>
+    <circle fill="currentColor" cx="12" cy="23.92816" r="1"
+            transform="translate(-14.7224 22.35642) rotate(-60.00007)"/>
+    <path fill="currentColor"
+          d="M16,8a1.04873,1.04873,0,0,0-1.04755.99884l-0.3811,8.00287a1.43027,1.43027,0,1,0,2.8573,0l-0.3811-8.00287A1.04873,1.04873,0,0,0,16,8Z"/>
+    <path fill="currentColor"
+          d="M26.28284,8.697a1,1,0,0,0,1.41425-1.41418L25.71716,5.30292a1,1,0,0,0-1.41425,1.41425Z"/>
+</svg>
